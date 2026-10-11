@@ -1,6 +1,6 @@
 # Wardriver!
 
-<img src="images/side shot.png" width="500">
+<img src="images/side shot.png" width="1000">
 
 ### wardriving (noun) - The act of searching for a Wi-Fi wireless network, usually from a moving vehicle, using a laptop or smartphone.
 
