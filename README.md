@@ -2,8 +2,10 @@
 
 <img src="images/side shot.png" width="1000">
 
-### wardriving (noun) - The act of searching for a Wi-Fi wireless network, usually from a moving vehicle, using a laptop or smartphone.
+#
 
+### wardriving (noun) - The act of searching for a Wi-Fi wireless network, usually from a moving vehicle, using a laptop or smartphone.
+#
 
 <p align="center">
   <img src="images/front.png" width="45%">
@@ -11,13 +13,12 @@
 </p>
 
 
-Hello yall! (My second README, have fun! <3) so this is a... wardriver! Well I like to call it a wifi/ble scanner and monitor but wardriver sounds cooler so yeah.
+Hello yall! (My second README, have fun! <3) so this is a... wardriver! Well I like to call it a wi-fi/BLE scanner and monitor and I won't scan while from a moving vehicle but wardriver sounds cooler so yeah.
 #
-This is my seond project which I actually did it all by myself (not unlike the software projects)
+This is my second project which I actually did it all by myself (not unlike the software projects, let's not talk about those.)
 
 
-This device scans wi-fi and bluetooth RFs and it also has GPS.
-It uses ESP32 Marauder (by justcallmekoko).
+This device scans wi-fi and bluetooth RFs and it also has GPS, and it uses the ESP32 Marauder (by justcallmekoko).
 
 #
 ### This is the PCB 
@@ -32,12 +33,12 @@ you can find it in the repo files aswell (duh), along with the schematic, and al
 
 #
 
-#### I have also made an edit, which is on the doomscroller of Half-Life, as soon as I have a link I will post it here. 
+#### I have also made an edit, which is on the *'doomscroller'* of Half-Life, as soon as I have a link (from anywhere) I will post it here. 
 
-What else can I say, this project is a very interesting project and I am very pasionate on such things, on Radio Frequencies, scanning them, etc. and I have been wanting to make it for a long time. Its like when I think about it my heart starts racing with excitement! 
+What else can I say, this project is a very interesting project and I am passionate on such things, on Radio Frequencies, scanning them, etc. and I have been wanting to make it for a long time. Its like when I think about it my heart starts racing with excitement! 
 
 
-## And yes, of course, the BOM
+## And yes, of course, the BOM;
 (BOM v1, I will cut costs to land under 65$, OR I will work more and make it fully finished for tier 3 of funding who knows :3)
 
 |Part|Qty|Price|Link|
