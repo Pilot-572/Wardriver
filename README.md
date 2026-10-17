@@ -53,7 +53,7 @@ Images!
 </p>
 <p align="center">
   <img src="images/case/case_boom.png" width="35.85%">
-  <img src="images/case/second_Picture.png" width="55%">
+  <img src="images/case/Second_Picture.png" width="55%">
 </p>
 
 
