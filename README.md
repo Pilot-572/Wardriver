@@ -38,6 +38,25 @@ you can find it in the repo files aswell (duh), along with the schematic, and al
 What else can I say, this project is a very interesting project and I am passionate on such things, on Radio Frequencies, scanning them, etc. and I have been wanting to make it for a long time. Its like when I think about it my heart starts racing with excitement! 
 
 
+## NEW, THE ONE AND ONLY **ENCLOSUREEE**
+Alright, I have made the enclosure too, took a bit, but its worth it, it looks LOVELYYY.
+#
+Images!
+#
+<img src="images/case/case_front.png" width="1000">
+
+#
+
+<p align="center">
+  <img src="images/case/case1.png" width="30%">
+  <img src="images/case/Third.png" width="60.6%">
+</p>
+<p align="center">
+  <img src="images/case/case boom.png" width="35.85%">
+  <img src="images/case/second Picture.png" width="55%">
+</p>
+
+
 ## And yes, of course, the BOM;
 (BOM v1, I will cut costs to land under 65$, OR I will work more and make it fully finished for tier 3 of funding who knows :3)
 
